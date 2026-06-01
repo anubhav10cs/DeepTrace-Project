@@ -4,7 +4,7 @@
 
 # Name- Anubhav Chatterjee
 # Roll No- 251CS210
-# Branch - Commputer Science
+# Branch - Computer Science
 
 
 Welcome to the DeepTrace Project repository!
